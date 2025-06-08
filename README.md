@@ -17,7 +17,7 @@ Project consists of a Snake Game programmed using the python turtle library.
 
 <p align="center">
 <br/>
-<img src="https://imgur.com/AENIAqw" height="80%" width="80%" "/>
+<img src="https://i.imgur.com/AENIAqw.png" height="80%" width="80%" "/>
 
 </p>
 
